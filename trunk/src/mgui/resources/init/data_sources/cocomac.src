@@ -1,0 +1,6 @@
+name=CoCoMac Database
+login=root
+password=/c51cKbeL5c=
+driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/cocomacdbmaster3000
+file=

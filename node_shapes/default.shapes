@@ -1,0 +1,6 @@
+# Default shapes for graph & shape nodes
+# Specified as: <name> <has-fill> <qualified-class-name> <space delimited parameter list>
+# Or:           <name> <has-fill> java.awt.geom.Path2D$<Float|Double> <svg-like M and L commands>
+circle 1 java.awt.geom.Ellipse2D$Float -10 -10 20 20
+square 1 java.awt.geom.Rectangle2D$Float -10 -10 20 20
+cross 0 java.awt.geom.Path2D$Float M 1,5 L 10,5 M 5,1 L 5,10
