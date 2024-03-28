@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 
-<ColourMap name = 'cmap' type = 'discrete' >	
-	<Item index = '0'>
+<ColourMap name = 'cmap' type = 'discrete' >	<Item index = '0'>
 		<Colour3f red = '1.0' green = '1.0' blue = '1.0' />
 	</Item>
 	<Item index = '1'>
